@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\nomaa\source\repos\lab 8 bank account\lab 8 bank account\source.cpp(6): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab 8 Bank Account.vcxproj -> C:\Users\nomaa\source\repos\Lab 8 Bank Account\Debug\Lab 8 Bank Account.exe
